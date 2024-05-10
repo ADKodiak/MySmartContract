@@ -37,7 +37,7 @@ We encourage community contributions! Whether it's filing bugs, discussing impro
 
 ## License 📄
 
-This project is released under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is released under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Support 💬
 
